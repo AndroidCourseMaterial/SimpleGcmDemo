@@ -1,0 +1,1 @@
+Simple demo of sending a GCM to a hardcoded receiver.
